@@ -64,7 +64,7 @@ The instructions for this mini project are divided into the following subsection
 ## Create the Contacts DataFrame
 1. Extract and transform the data from the contacts.xlsx Excel data:
 
-Use Python dictionary methods.
+Using Python dictionary methods.
 
 2. Complete the following steps:
   - Import the contacts.xlsx file into a DataFrame.
@@ -74,7 +74,7 @@ Use Python dictionary methods.
     - Add the values for each row to a new list.
   - Create a new DataFrame that contains the extracted data.
   - Split each "name" column value into a first and last name, and place each in a new column.
-  - Clean and export the DataFrame as contacts.csv and save it to your GitHub repository.
+  - Clean and export the DataFrame as contacts.csv 
 
 - Final DataFrame resembles the one in the following image:
 
@@ -99,3 +99,4 @@ Use Python dictionary methods.
 7. Import each CSV file into its corresponding SQL table.
 
 8. Verify that each table has the correct data by running a SELECT statement for each.
+   - (Click to view final database schema)[https://github.com/Jaynav04/Crowdfunding_Data/blob/main/crowdfunding_db_schema.sql.sql]
